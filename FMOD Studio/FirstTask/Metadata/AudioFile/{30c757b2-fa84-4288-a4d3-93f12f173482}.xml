@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{30c757b2-fa84-4288-a4d3-93f12f173482}">
+		<property name="assetPath">
+			<value>18765__reinsamba__evening-in-the-forest.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>155.97240362811792</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1a0288e7-fe93-469e-aec3-1a43ccaa0124}</destination>
+		</relationship>
+	</object>
+</objects>
